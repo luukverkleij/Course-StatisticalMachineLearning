@@ -1,2 +1,2 @@
-# Course Statistical Machine Learning
-Coursework of the course "Statistical Machine Learning"
+# Coursework Statistical Machine Learning
+Coursework of the master course "Statistical Machine Learning"
